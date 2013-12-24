@@ -9,21 +9,21 @@ Colorschemes hinge on syntax files, and this file should work with builtin synta
 
 Tested with the following syntax files:
   
-  .vim
+* .vim
   
-  .md
+* .md
 
-  .conf
+* .conf
   
-  .html
+* .html
 
-  .js
+* .js
 
-  .css
+* .css
 
 Confirmed as needing adjustment:
   
-  .cpp // Some adjustment for easier reading needed 
+* .cpp // Some adjustment for easier reading needed 
 
 Version
 -------
