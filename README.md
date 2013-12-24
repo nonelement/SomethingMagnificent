@@ -16,6 +16,8 @@ Tested with the following syntax files:
   .conf
 
 Confirmed as needing adjustment:
+  
+  .cpp // Some adjustment for easier reading needed 
 
   .html
 

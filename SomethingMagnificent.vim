@@ -33,18 +33,17 @@ hi         Number               cterm=NONE  ctermfg=DarkBlue        ctermbg=NONE
 hi         Boolean              cterm=NONE  ctermfg=Blue            ctermbg=NONE
 hi         Float                cterm=NONE  ctermfg=Yellow          ctermbg=NONE
 
-hi         Cursor               cterm=NONE  ctermfg=LightGray       ctermbg=NONE
-hi         Visual               cterm=NONE  ctermfg=darkgray        ctermbg=NONE
+hi         Visual               cterm=NONE  ctermfg=250             ctermbg=239
 
 hi         Statement            cterm=NONE  ctermfg=118             ctermbg=NONE
 hi         Identifier           cterm=BOLD  ctermfg=126             ctermbg=NONE
 hi         Function             cterm=BOLD  ctermfg=220             ctermbg=NONE
 
-hi         Conditional          cterm=NONE  ctermfg=172             ctermbg=NONE
-hi         Repeat               cterm=NONE  ctermfg=172             ctermbg=NONE
-hi         Label                cterm=NONE  ctermfg=172             ctermbg=NONE
-hi         Operator             cterm=NONE  ctermfg=172             ctermbg=NONE
-hi         Keyword              cterm=NONE  ctermfg=172             ctermbg=NONE
+hi         Conditional          cterm=NONE  ctermfg=208             ctermbg=NONE
+hi         Repeat               cterm=NONE  ctermfg=208             ctermbg=NONE
+hi         Label                cterm=NONE  ctermfg=208             ctermbg=NONE
+hi         Operator             cterm=NONE  ctermfg=208             ctermbg=NONE
+hi         Keyword              cterm=NONE  ctermfg=208             ctermbg=NONE
 
 hi         Type                 cterm=BOLD  ctermfg=135             ctermbg=NONE
 hi         StorageClass         cterm=BOLD  ctermfg=135             ctermbg=NONE
