@@ -1,8 +1,6 @@
 SomethingMagnificent
 ====================
 
-! Still needs a lot of tweaking !
-
 Vim colorscheme file for SomethingMagnificent.
 
 Colorschemes hinge on syntax files, and this file should work with builtin syntax definitions wherever possible. 
@@ -21,8 +19,10 @@ Tested with the following syntax files:
 
 * .css
 
+* .go // Looks good, but could be tweaked
+
 Confirmed as needing adjustment:
-  
+
 * .cpp // Some adjustment for easier reading needed 
 
 Version
