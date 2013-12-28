@@ -1,7 +1,7 @@
 " Vim color file
 " Name:         Something Magnificent
 " Maintainer:   Anthony Kirkpatrick
-" Version:      0.1
+" Version:      0.2
 " Last Change:  Dec 21, 2013
 
 " Init
@@ -59,11 +59,11 @@ hi    Specialchar    cterm=BOLD  ctermfg=60       ctermbg=NONE
 hi    Delimiter      cterm=BOLD  ctermfg=220      ctermbg=NONE
 hi    PreProc        cterm=NONE  ctermfg=067      ctermbg=NONE
 hi    Include        cterm=NONE  ctermfg=075      ctermbg=NONE
-hi    Define         cterm=NONE  ctermfg=Red      ctermbg=NONE
-hi    Macro          cterm=BOLD  ctermfg=Red      ctermbg=NONE
+hi    Define         cterm=NONE  ctermfg=012      ctermbg=NONE
+hi    Macro          cterm=BOLD  ctermfg=012      ctermbg=NONE
 hi    Precondit      cterm=BOLD  ctermfg=226      ctermbg=NONE
 
-hi    Ignore         cterm=BOLD  ctermfg=Red      ctermbg=NONE
-hi    Debug          cterm=BOLD  ctermfg=Red      ctermbg=NONE
-hi    Error          cterm=BOLD  ctermfg=Red      ctermbg=NONE
+hi    Ignore         cterm=BOLD  ctermfg=012      ctermbg=NONE
+hi    Debug          cterm=BOLD  ctermfg=012      ctermbg=NONE
+hi    Error          cterm=BOLD  ctermfg=012      ctermbg=NONE
 hi    Exception      cterm=NONE  ctermfg=118      ctermbg=NONE
