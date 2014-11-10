@@ -2,7 +2,7 @@
 " Name:         Something Magnificent
 " Maintainer:   Anthony Kirkpatrick
 " Version:      1.02
-" Last Change:  Dec 21, 2013
+" Last Change:  Nov 10, 2014
 
 " Init
 highlight  clear
