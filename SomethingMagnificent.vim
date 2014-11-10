@@ -1,7 +1,7 @@
 " Vim color file
 " Name:         Something Magnificent
 " Maintainer:   Anthony Kirkpatrick
-" Version:      0.2
+" Version:      1.02
 " Last Change:  Dec 21, 2013
 
 " Init
