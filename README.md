@@ -1,9 +1,9 @@
-![Screenshot of SomethingMagnificent](https://raw.githubusercontent.com/nonelement/SomethingMagnificent/master/screenshot.png)
-
 SomethingMagnificent
 ====================
 
 Vim colorscheme file for SomethingMagnificent.
+
+![Screenshot of SomethingMagnificent](https://raw.githubusercontent.com/nonelement/SomethingMagnificent/master/screenshot.png)
 
 Colorschemes hinge on syntax files, and this file should work with builtin syntax definitions wherever possible. 
 
