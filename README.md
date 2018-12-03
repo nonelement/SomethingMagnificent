@@ -1,3 +1,5 @@
+![Screenshot of SomethingMagnificent](https://raw.githubusercontent.com/nonelement/SomethingMagnificent/master/screenshot.png)
+
 SomethingMagnificent
 ====================
 
